@@ -1,0 +1,8 @@
+# used to find realtionship btwn variables
+#data
+y1 = [10, 20, 25, 35, 45]
+y2 = [20, 30, 35, 45, 55]
+
+plt.scatter(y1,y2)
+plt.title("scatter plot example")
+plt.show()
